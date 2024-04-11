@@ -1,0 +1,44 @@
+{
+  "name": "Todo API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "eslint": "^9.0.0",
+    "jai-body-parser": "^1.1.3",
+    "jai-server": "^1.4.5",
+    "joi": "^17.12.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "author": {
+
+    "name": "Harpal Singh",
+
+    "url": "https://github.com/hsk11"
+
+  },
+
+  "license": "MIT",
+
+  "homepage": "https://github.com/hsk11",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/hsk11"
+
+  },
+}
